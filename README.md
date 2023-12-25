@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Software developer. Javascript | React | Vue | Golang. 
+Software developer. Javascript |  Golang. 
