@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Software developer with thorough understanding of designing, developing and maintaining web systems and mobile applications. I have a strong background in Javascript.
+Software Engineer with thorough understanding of designing, developing and maintaining web systems and mobile applications. I have a strong background in Javascript.
 
 I can be easily absorbed by my work.
 
