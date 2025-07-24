@@ -9,3 +9,5 @@ Presently focused on improving my skills and learning Golang, Docker, K8s and an
 Contributing to [https://github.com/Timilehinn/softchatjs](https://github.com/Timilehinn/softchatjs)
 
 Portfolio - [https://findtolu.netlify.app/](https://findtolu.netlify.app/)
+
+Leetcode - [https://leetcode.com/u/Makinde1034/](https://leetcode.com/u/Makinde1034/)
