@@ -10,4 +10,3 @@ Contributing to [https://github.com/Timilehinn/softchatjs](https://github.com/Ti
 
 Portfolio - [https://findtolu.netlify.app/](https://findtolu.netlify.app/)
 
-Leetcode - [https://leetcode.com/u/Makinde1034/](https://leetcode.com/u/Makinde1034/)
